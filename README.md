@@ -1,137 +1,77 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Jatin+Prajapati;Data+Science+Student+%7C+AI+Builder+%7C+ML+Explorer" alt="Typing SVG" />
-</h1>
+<h1 align="center">Jatin Prajapati</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&width=900&height=40&lines=IIT+Madras+BS+Data+Science+%7C+Vicharshala%2C+IIT+Ropar+%7C+Python+%26+AI" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <strong>BS Data Science @ IIT Madras</strong> · <strong>AI/ML Builder</strong> · <strong>Summer Intern @ Vicharshala, IIT Ropar</strong>
+</p>
 
 <p align="center">
   <a href="mailto:hanxingzi862@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hanxingzi862%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-hanxingzi862%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jatin-prajapati-8840a0257">
-    <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jatinprajapati7869">
-    <img src="https://img.shields.io/badge/GitHub-jatinprajapati7869-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-jatinprajapati7869-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jatinprajapati7869&style=for-the-badge&color=00D9FF" />
 </p>
 
 ---
 
-## About Me
+I build practical AI and data products across computer vision, geospatial analysis, learning tools, and applied machine learning. My work combines product thinking with hands-on engineering: taking an idea from problem framing to prototype, model integration, backend/API work, and user-facing interfaces.
 
-```text
-BS Data Science              Indian Institute of Technology Madras
-Summer Intern                Vicharshala, IIT Ropar
-AI / ML Builder              Computer Vision, GenAI, Geospatial AI
-Founder / Solo Builder       Substrata
-Competitive Coding           AtCoder 512 | 80+ LeetCode problems
-Languages                    English | Hindi | Japanese N5
-```
+Currently studying **Data Science at IIT Madras** and working as a **Summer Intern at Vicharshala, IIT Ropar**, where I am contributing to a project on the impact of weather on agriculture.
 
-> Working on useful AI/data products across computer vision, learning tools, geospatial analysis, and agriculture/weather impact.
+## Focus Areas
 
----
+- Applied machine learning and data science
+- Computer vision systems using YOLOv8
+- Geospatial analysis with satellite and street-network data
+- GenAI-powered learning tools
+- Full-stack AI prototypes with React, FastAPI, and Python
 
-## Tech Stack & Tools
+## Selected Work
+
+| Project | Description | Engineering Signal |
+| --- | --- | --- |
+| **StreetSense** | Road damage and pothole detection from phone-camera input | YOLOv8, computer vision, mobile-first AI use case; pitched at IIT Madras Paradox 2026 |
+| **Canopix** | Urban heat mitigation tool for tree-planting recommendations | Google Earth Engine, OSMnx, satellite imagery, street networks, ML-based site scoring |
+| **Substrata** | Japanese reading assistant that segments text by JLPT level | Solo-built product across React, Vite, FastAPI, Python, Tailwind, and AI integration |
+| **Vicharshala Research** | Weather-agriculture impact analysis project at IIT Ropar | Applied data analysis in education/research environment |
+
+## Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,vite,fastapi,tailwind,bootstrap,mysql,git,github,vscode,linux" />
 </p>
 
+**ML / Data:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+**AI / CV:** YOLOv8, computer vision, GenAI applications  
+**Backend / Web:** FastAPI, React, Vite, Tailwind, Bootstrap  
+**Geospatial:** Google Earth Engine, OSMnx, satellite data, street-network analysis  
+**Tools:** Git, GitHub, VS Code, MySQL
+
+## Proof Of Work
+
+- **IIT Madras BS Data Science** student, focused on programming, machine learning, and data science.
+- **Summer Intern at Vicharshala, IIT Ropar**, working on weather and agriculture impact analysis.
+- Built multiple AI/data projects from concept to working prototype.
+- Solved **80+ LeetCode problems** and hold an **AtCoder rating of 512**.
+- Completed simulations/courses in GenAI, data analytics, and applied AI tools.
+
+## GitHub Snapshot
+
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-00FFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Geospatial%20AI-34A853?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSMnx-Street%20Networks-7E57C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinprajapati7869&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinprajapati7869&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinprajapati7869&layout=compact&theme=github_dark&hide_border=true" width="38%" />
 </p>
 
 ---
 
-## Featured Projects
-
-| Project | What It Does | Stack / Focus |
-|--------|--------------|---------------|
-| StreetSense | AI-powered road damage and pothole detection from phone-camera input | YOLOv8, computer vision, startup pitch |
-| Canopix | Recommends tree-planting locations to reduce urban heat | Google Earth Engine, OSMnx, satellite data, ML |
-| Substrata | AI-powered Japanese reading tool that segments text by JLPT level | React, Vite, Python, FastAPI, Tailwind, AI integration |
-| Vicharshala Research | Group project studying weather impact on agriculture | Data analysis, agriculture, weather data |
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinprajapati7869&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jatinprajapati7869&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinprajapati7869&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatinprajapati7869&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatinprajapati7869&theme=github_dark&utcOffset=5.5" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinprajapati7869&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinprajapati7869&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinprajapati7869&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+  <strong>Building useful AI systems with clear problem framing, fast prototypes, and practical execution.</strong>
 </p>
-
----
-
-## Certifications
-
-```text
-Tata GenAI Powered Data Analytics Job Simulation
-JPMorgan Chase & Co. Data Science Job Simulation
-AI Python for Beginners - DeepLearning.AI
-Building Generative AI Applications with Gradio
-AI Tools Workshop
-```
-
----
-
-## Badges & Achievements
-
-- AtCoder rating: 512
-- Solved 80+ coding problems on LeetCode
-- Active participation certificate - Hustlepreneurs, IITM Paradox 2026
-- Pitched StreetSense at IIT Madras Paradox 2026 hackathon
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jatinprajapati7869&theme=matrix&margin-w=10&row=1&column=8" />
-</p>
-
----
-
-## Terminal Mode
-
-```bash
-> whoami
-Jatin Prajapati | BS Data Science @ IIT Madras
-
-> pwd
-~/projects/ai-ml-data-products
-
-> ls -a
-StreetSense
-Canopix
-Substrata
-Vicharshala-Research
-Certifications
-AI-Experiments
-
-> cat focus.txt
-- Build practical AI/data products
-- Learn by shipping prototypes
-- Work on computer vision, GenAI, geospatial AI, and learning tools
-```
-
----
-
-<h3 align="center">Building useful AI, one practical project at a time.</h3>
