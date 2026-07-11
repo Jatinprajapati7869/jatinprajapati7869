@@ -1,7 +1,7 @@
 <h1 align="center">Jatin Prajapati</h1>
 
 <p align="center">
-  <strong>BS Data Science @ IIT Madras</strong> · <strong>AI/ML Builder</strong> · <strong>Summer Intern @ Vicharshala, IIT Ropar</strong>
+  <strong>BS Data Science @ IIT Madras</strong> Â· <strong>AI/ML Builder</strong> Â· <strong>Summer Intern @ Vicharshala, IIT Ropar</strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I build practical AI and data products across computer vision, geospatial analysis, learning tools, and applied machine learning. My work combines product thinking with hands-on engineering: taking an idea from problem framing to prototype, model integration, backend/API work, and user-facing interfaces.
 
-Currently studying **Data Science at IIT Madras** and working as a **Summer Intern at Vicharshala, IIT Ropar**, where I am contributing to a project on the impact of weather on agriculture.
+Currently studying **IIT Madras** and working as a **Summer Intern at Vicharshala, IIT Ropar**, where I am contributing to a project on the impact of weather on agriculture.
 
 ## Focus Areas
 
