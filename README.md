@@ -20,7 +20,7 @@
 
 I build practical AI systems - from model training to API to user interface. My work focuses on computer vision, applied ML, and Japanese-language tools. I ship working prototypes with tests, CI, and documentation.
 
-Currently studying at **IIT Madras** (BS Data Science) and interning at **Vicharshala, IIT Ropar** on weather-agriculture impact analysis.
+Currently studying at **IIT Madras** and interning at **Vicharshala, IIT Ropar** on weather-agriculture impact analysis.
 
 ## Pinned Projects
 
