@@ -18,9 +18,7 @@
 
 ---
 
-I build practical AI systems - from model training to API to user interface. My work focuses on computer vision, applied ML, and Japanese-language tools. I ship working prototypes with tests, CI, and documentation.
-
-Currently studying at **IIT Madras** and interning at **Vicharshala, IIT Ropar**.
+I build practical AI systems - from model training to API to user interface. My work focuses on computer vision, applied ML, and Japanese language tools. I ship working prototypes with tests, CI, and documentation.
 
 ## Technical Stack
 
@@ -35,30 +33,6 @@ Currently studying at **IIT Madras** and interning at **Vicharshala, IIT Ropar**
 **Frontend**: React, TypeScript, Vite, Tailwind CSS, Framer Motion
 
 **DevOps**: Docker, GitHub Actions CI, Husky, Commitlint
-
-**Geospatial**: Google Earth Engine, OSMnx, Folium, Landsat 9
-
-## Engineering Practices
-
-Every pinned project follows professional standards:
-
-- Passing builds and test suites
-- CI pipelines (GitHub Actions)
-- Typed codebases (TypeScript / Python type hints)
-- Documented APIs and architecture
-- MIT licensed with proper evaluation docs
-
-## Current Focus
-
--  LLM applications with retrieval-augmented generation and evaluation
--  Computer vision systems for real-world deployment
--  Japanese language + engineering career in Japan
--  Building evaluation frameworks for ML model transparency
-
-## Proof of Work
-
-- **150+ LeetCode** problems solved - **AtCoder 979** rating , **Codeforces** **1253** rating
-- Built 6+ production-quality AI/data projects from concept to deployment
 
 ## GitHub Snapshot
 
