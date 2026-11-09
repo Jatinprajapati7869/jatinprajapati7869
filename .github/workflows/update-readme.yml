@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MANAGE_PROFILE }}
       - name: generate_github-profile-summary-cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
