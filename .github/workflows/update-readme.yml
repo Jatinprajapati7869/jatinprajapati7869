@@ -1,0 +1,61 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 16 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-github-profile-summary-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: generate_github-profile-summary-cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.MANAGE_PROFILE }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: 2077
+          TIME_ZONE: Asia/Kolkata
+
+  update-readme:
+    needs: update-github-profile-summary-cards
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MANAGE_PROFILE }}
+
+      - name: Generate GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.MANAGE_PROFILE }}
+        run: |
+          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=Jatinprajapati7869&theme=juicyfresh&no-bg=true"
+
+          echo "# profile" > README.md
+          echo "" >> README.md
+
+          echo "[![](https://raw.githubusercontent.com/Jatinprajapati7869/Jatinprajapati7869/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)" >> README.md
+          echo "[![](https://raw.githubusercontent.com/Jatinprajapati7869/Jatinprajapati7869/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jatinprajapati7869/Jatinprajapati7869/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)" >> README.md
+          echo "[![](https://raw.githubusercontent.com/Jatinprajapati7869/Jatinprajapati7869/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jatinprajapati7869/Jatinprajapati7869/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)" >> README.md
+          echo "" >> README.md
+
+          echo "<img src=\"$TROPHY_URL\" alt=\"GitHub Trophy\" />" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest stats" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push
